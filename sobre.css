@@ -1,0 +1,76 @@
+    .sobre{
+        text-align: center;
+        color: #2AC723;
+        background-color:rgb(16, 59, 123, 0.75);
+        border-radius: 3%;
+        padding: 1rem;
+        width: 20%;
+        height: 10%;
+        font-family: 'Bebas Neue', sans-serif;
+        font-size: 52px;
+        margin-top:7rem
+        
+    }
+    .texto1{
+        margin-top:2rem;
+        text-align: justify;
+        font-size:32px;   
+        color: #103B7B;
+        font-family: 'Bebas Neue', sans-serif;     
+        margin-right: 30%;
+        position:absolute;
+        margin-left: 5rem;
+    }
+
+    .texto1::first-letter{
+        font-size: 5rem;
+        color: #0f660a;
+    }
+
+    .imagem{
+        float: right;
+        margin-left:0;
+        margin-top:0;
+        width:23%;
+        height:23%;
+        border-radius: 3%;
+
+    }
+    .serviços{
+        text-align:center;
+        color: #2AC723;
+        background-color:rgb(16, 59, 123, 0.75);
+        border-radius: 3%;
+        padding: 1rem;
+        width: 15%;
+        height: 10%;
+        font-family: 'Bebas Neue', sans-serif;
+        font-size:52px;
+        margin-top:22rem;
+        
+    }
+
+.serviços1{
+        font-size: 2rem;
+        text-align: justify;
+        color: #103B7B;
+        font-family: 'Bebas Neue', sans-serif;
+        margin-top:5rem;    
+        margin-left: 5rem;
+    
+}
+
+.serviços1::first-letter{
+        font-size: 5rem;
+        color: #0f660a;
+}
+
+.img1{
+    
+        margin-left:0;
+        margin-top:5rem;;
+        width:37%;
+        margin-bottom: 7rem;
+        margin-left: 30%;
+        border-radius: 3%;
+}

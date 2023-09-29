@@ -1,0 +1,121 @@
+main
+{
+    margin-top: 6rem;
+    margin-left: 0rem;
+    margin-right: 0rem;
+}
+
+#ze
+{
+    width: 20rem;
+    height: 20rem;
+    float: left;
+    margin-top: -10rem;
+    margin-left: 10%;
+    position:sticky;    
+
+}
+
+#home img
+{
+    width: 100%;
+    height: 50rem;
+}
+
+#clientes
+{
+    text-align: center;
+    color: #103B7B;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 2rem;
+}
+
+#clientes p
+{
+    font-size:1rem;
+    color: #0f660a;
+    padding-top: 0.5rem;
+    text-align: right;
+    margin-right: 20%;
+}
+
+#clientes h1 {
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
+
+.cli_esquerda1,.cli_esquerda2,.cli_direita
+{
+    background-color: rgb(255, 49, 49, 0.25);
+    border-radius: 2%;
+    width: 70%;
+    margin-left:15%;
+    margin-right:15%;
+}
+
+.cli_esquerda1 img
+{
+    margin-top: 1rem;
+    margin-right: 10%;
+    width: 7rem;
+    height: 7rem;
+    float: right;
+    border-radius: 3%;
+}
+
+.cli_esquerda1 h2
+{
+    width: 60%;
+    margin-left:20%;
+    margin-right: 20%;
+    display: left;
+    margin-top: 4rem;
+    text-align: left;
+    font-size: 1.5rem;
+    padding: 2rem;
+}
+
+.cli_direita img
+{
+    margin-top: 2rem;
+    margin-left: 10%;
+    width: 7rem;
+    height: 7rem;
+    float: left;
+    border-radius: 3%;
+}
+
+.cli_direita h2
+{
+    width: 60%;
+    margin-left:20%;
+    margin-right: 20%;
+    display: right;
+    margin-top: 4rem;
+    text-align: right;
+    font-size: 1.5rem;
+    padding: 2rem; 
+}
+
+.cli_esquerda2 img
+{
+    margin-top: 2rem;
+    margin-right: 10%;
+    width: 7rem;
+    height: 7rem;
+    float: right;
+    border-radius: 3%;
+}
+
+.cli_esquerda2 h2
+{
+    width: 60%;
+    margin-right:20%;
+    margin-left: 20%;
+    display: left;
+    margin-top: 4rem;
+    text-align: left;
+    font-size: 1.5rem;
+    padding: 2rem;  
+}

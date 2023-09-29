@@ -1,0 +1,45 @@
+main{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 10rem;
+}
+
+main h1{
+    text-align: center;
+    font-family: 'Bebas Neue', sans-serif;
+    color: #103B7B;
+}
+
+#form div{
+    width: 68%;
+    margin-left: 5%;
+    margin-bottom: 1rem;
+}
+
+#form label{
+    font-size: 2rem;
+    font-family: 'Bebas Neue', sans-serif;
+    color: #103B7B;
+}
+#form input{
+    width: 50rem;
+    height: 1.5rem;
+}
+#form textarea, #form select{
+    width: 52rem;
+}
+#form select{
+    height: 1.5rem;
+}
+#form button{
+    padding: 1rem 2rem 1rem 2rem;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 1rem;
+}
+
+input[type="radio"] {
+    width: 20px !important;
+    vertical-align: baseline;
+  }
